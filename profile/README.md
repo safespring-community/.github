@@ -8,4 +8,4 @@ We have a technical blog - se our latest blogpost about [provisioning resources 
 
 We have our documentation [here](https://docs.safespring.com) a status for our services [here](https://status.safespring.com)
 
-Pull requests to our community projects are welcome!
+Pull requests to our community projects are welcome 🙏
